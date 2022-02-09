@@ -1,4 +1,4 @@
-# Data-Processing-Visualization-
+# Data Processing and Data Visualization
 Analysis of Student's Academic Performance using Machine Learning and Data Visualization
 
 In this project, we evaluated these questions on data mining for education:  
